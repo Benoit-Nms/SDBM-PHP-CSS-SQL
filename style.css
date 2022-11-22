@@ -1,0 +1,43 @@
+
+.form{
+    background-color: rgb(228, 233, 164);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.3em;
+      
+}
+
+.button{
+    background-color: rgb(185, 136, 71);    
+    font-size: 1.0em;
+    border-radius: 0.8em;
+    font-family: sans-serif;
+    color: white;
+    border: none;
+    text-align: center;
+    padding: 10px 30px;
+    cursor: pointer;
+    margin: auto; 
+    
+}
+
+.button:hover{
+    background-color: rgb(184, 118, 33);
+    font-size: 1.0em;
+    font-family: sans-serif;
+    color: white;
+    transition: 0.3s;
+          
+}
+
+#titreForm{
+    text-decoration: underline;
+    font-family: fantasy;
+}
+
+.selCont{
+    font-size: 0.9em;
+}
+
+.selMarque{
+    font-size: 0.9em;
+}
